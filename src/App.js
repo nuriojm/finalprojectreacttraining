@@ -1,10 +1,11 @@
 import './App.css';
-import Hook from './components/page/hook';
+import Selectpeople from './components/page/selectpeople';
+
 
 function App() {
   return (
     <div className="App">
-      <Hook />
+      <Selectpeople />
     </div>
   );
 }

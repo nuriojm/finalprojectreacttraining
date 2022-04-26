@@ -114,3 +114,19 @@
   width: 200px;
   display: inline-block;
 }
+
+.r-tree div {
+  display: block;
+  margin-left: 0px;
+  text-align: left;
+}
+
+.r-vehicle-name {
+  padding-left: 20px;
+}
+
+.r-crewlist .r-crew {
+  padding-left: 60px;
+  
+}
+
